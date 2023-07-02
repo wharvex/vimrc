@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =6
+let g:netrw_dirhist_6='/home/tim/google-drive/projects_sparrow/perl'
+let g:netrw_dirhist_5='/home/tim/projects/bash'
+let g:netrw_dirhist_4='/home/tim/projects/perl'
+let g:netrw_dirhist_3='/home/tim/projects/bash'
+let g:netrw_dirhist_2='/home/tim/projects/perl'
+let g:netrw_dirhist_1='/home/tim'
+let g:netrw_dirhist_0='/home/tim/.config/nvim/lua/user/plugins'
+let g:netrw_dirhist_9='/home/tim/.config/nvim/lua/user'
+let g:netrw_dirhist_8='/home/tim/.config/nvim/lua/user/highlights'
+let g:netrw_dirhist_7='/home/tim/.config/nvim/lua/user'
